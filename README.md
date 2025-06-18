@@ -18,3 +18,8 @@ https://docs.github.com/en/copilot/managing-copilot/monitoring-usage-and-entitle
 - o3	1
 - o3-mini	0.33
 - o4-mini	0.33
+
+## Agent instructions
+
+copilot-instructions.md
+copilot-setup-steps.yml
