@@ -2,6 +2,8 @@
 
 ## Model	Premium requests
 
+https://docs.github.com/en/copilot/managing-copilot/monitoring-usage-and-entitlements/about-premium-requests
+
 - GPT-4.1	0 (paid users), 1 (Copilot Free)
 - GPT-4o	0 (paid users), 1 (Copilot Free)
 - GPT-4.5	50
